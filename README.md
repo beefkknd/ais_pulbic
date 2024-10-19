@@ -1,8 +1,14 @@
 
 <div style="text-align: center;">
-    <h1>VESSEL_RISK</h1>
-    <h2>What you want, however you like 😊</h2>
-    <h3>an awesome way of using AI to enhance your day to day work!</h3>
+   <h3 align="center">VESSEL RISK</h3>
+
+   <p align="center">
+      an awesome way of using AI to enhance your day to day work!
+      <br />
+      <br />
+      <strong>What you want, however you like 😊</strong></a>
+      <br /> 
+   </p>
 </div>
 
 <div style="text-align: center;">
