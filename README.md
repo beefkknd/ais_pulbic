@@ -6,7 +6,7 @@
       an awesome way of using AI to enhance your day to day work!
       <br />
       <br />
-      <strong>Whatever you want, however you like 😊</strong></a>
+      <strong>Whatever you want! However you like! 😊</strong></a>
       <br /> 
    </p>
 </div>
